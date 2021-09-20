@@ -2,4 +2,4 @@
 
 Hi Everyone!
 
-This is Molly McCain. I am currently sitting in the BizHub as I am writing this!
+This is Molly McCain. I am a Junior Studying BAIS and Sport and Rec Management.
