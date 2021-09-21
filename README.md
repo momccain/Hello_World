@@ -13,15 +13,6 @@
   ## Description
   
   This project will help you understand some of the best techniques for carving a pumpkin!
-  
-  ## How To Run Program
-  
-  Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
     
    ## Files Used
    [How To Carve A Pumpkin Like a Pro] (https://www.youtube.com/watch?v=2AH--A8wcTc)
