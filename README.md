@@ -11,7 +11,7 @@
   
   ## Description
   
-  This project will help you understand some of the best techniques for carving a pumpkin!
+  This project will help you understand some of the _best_ techniques for carving a pumpkin!
     
    ## Files Used
    [How To Carve A Pumpkin Like a Pro] (https://www.youtube.com/watch?v=2AH--A8wcTc)
