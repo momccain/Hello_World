@@ -10,7 +10,7 @@
   
   **How To Carve a Pumpkin**
   
-  ##Description
+  ## Description
   
   This project will help you understand some of the best techniques for carving a pumpkin!
   
